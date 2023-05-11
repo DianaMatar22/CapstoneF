@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+mlxtend.frequent_patterns
+apriori
+association_rules
+streamlit.components.v1
